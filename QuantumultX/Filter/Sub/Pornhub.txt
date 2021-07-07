@@ -1,5 +1,5 @@
 # > Pornhub
-host-suffix, phncdn.com, Global
-host-suffix, phprcdn.com, Global
-host-suffix, pornhub.com, Global
-host-suffix, pornhubpremium.com, Global
+host-suffix, phncdn.com, P
+host-suffix, phprcdn.com, P
+host-suffix, pornhub.com, P
+host-suffix, pornhubpremium.com, P
